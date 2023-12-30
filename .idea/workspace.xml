@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fe63061-95ea-4567-9782-a382059b016f" name="Changes" comment="" />
+    <list default="true" id="1fe63061-95ea-4567-9782-a382059b016f" name="Changes" comment="PrimerCommitProva">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/prova.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +16,9 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
@@ -29,6 +34,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -40,8 +47,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1703923515188</updated>
-      <workItem from="1703923516241" duration="1000" />
+      <workItem from="1703923516241" duration="145000" />
     </task>
+    <task id="LOCAL-00001" summary="PrimerCommitProva">
+      <option name="closed" value="true" />
+      <created>1703923623640</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703923623640</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="PrimerCommitProva" />
+    <option name="LAST_COMMIT_MESSAGE" value="PrimerCommitProva" />
   </component>
 </project>
